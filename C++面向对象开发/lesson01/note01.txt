@@ -1,0 +1,25 @@
+lesson01 C++编程简介
+
+Object Based（基于对象，单个class）:
+class 的经典分类
+- class without pointer members
+- class with pointer members
+
+Object Oriented（面向对象，多个classes）：
+- 继承 inheritance
+- 组合 composition
+- 委托 delegation
+
+C++历史
+B(1969) -> C(1972) -> new C -> C with Class -> C++(1983)
+
+C++演化
+- C++ 98(1.0)
+- C++ 03(TR1, Technical Report 1)
+- C++ 11(2.0)
+- C++ 14
+
+C++
+- C++语言
+- C++标准库
+
